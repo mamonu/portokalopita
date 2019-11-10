@@ -17,14 +17,14 @@ A syrup cake made with filo pastry and infused with orange drizzle for a great z
 #### Limitations
 
 :x: Liability
-:x: Warranty/ 
+:x: Warranty\ 
  
  
  
 ## step 0 
 
 
-Music. :notes:  get the playlist going./
+Music. :notes:  get the playlist going.\
  
  
 ## step 1
@@ -73,7 +73,7 @@ get the following in mixing bowl and mix them lightly
 - [x] now add the materials from step 2
 
 
-squeeze the filo pastry pieces as you throw them in the mix./
+squeeze the filo pastry pieces as you throw them in the mix.\
 
     ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0120.JPG)
     
