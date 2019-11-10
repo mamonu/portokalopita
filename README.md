@@ -53,7 +53,7 @@ Get the materials &nbsp;
 - [x] 4 teaspoon baking powder 
 - [x] 2 oranges per baking tray
 
-&nbsp; 
+&nbsp; &nbsp; 
 
 ## step 2
 
@@ -65,7 +65,8 @@ Prepare the materials
 
   - [x] use a citrus grater to lightly grate off only the top layer of the orange peel.    
 
-&nbsp; 
+&nbsp; &nbsp; 
+
 ## step 3
  
 &nbsp; &nbsp;  
@@ -84,9 +85,9 @@ get the following in mixing bowl and mix them lightly
 &nbsp; 
 - [x] now add the materials from step 2
 
-&nbsp; 
+&nbsp; &nbsp; 
 squeeze the filo pastry pieces as you throw them in the mix.&nbsp;
-&nbsp; 
+&nbsp; &nbsp; 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0120.JPG)
     
 &nbsp;&nbsp;  
@@ -123,10 +124,10 @@ aluminum foil on top on the 25 min mark
 
  &nbsp; 
 Create the syrup.&nbsp;
-Put the following in a pot :
+Put the following in a pot :&nbsp; &nbsp; 
 &nbsp;
 
-
+&nbsp; 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0123.JPG)
  &nbsp; 
 - [x] a cup of sugar ( adjust to taste)
@@ -182,7 +183,9 @@ Wait for an hour or two.
  ## step 9
  
  &nbsp; &nbsp; 
+ 
  Time to dig in:
+ 
  :cake: :cake: :cake: :cake: :cake:
 
 
@@ -194,12 +197,12 @@ Bon Appetit
 Guten Appetit
 
 
-  :cake: :cake: :cake: :cake: :cake: :cake:
+:cake: :cake: :cake: :cake: :cake: :cake:
  
- ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0128.JPG)
+![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0128.JPG)
  
  
- :tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine:
+:tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine:
 
 
 
