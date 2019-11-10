@@ -82,7 +82,7 @@ get the following in mixing bowl and mix them lightly
 - [x] a cup of sunflower oil
 - [x] a portion of greek yoghurt
 - [x] 2 eggs per baking tray
-- [x] vanilla extract
+- [x] 2 teaspoons of vanilla extract
 &nbsp;&nbsp;  
  ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0119.JPG)
 &nbsp; 
