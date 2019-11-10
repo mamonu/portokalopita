@@ -5,15 +5,15 @@
  
  
  
-## step 0
+## step 0 
 
 
-    Music. We are going to be in the kitchen for sometime so... get the playlist going.
+Music. :notes:  get the playlist going.
  
  
 ## step 1
  
-    Get the materials 
+Get the materials 
 
 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0117.JPG)
@@ -40,11 +40,9 @@
 
 ## step 3
  
-    Mix the materials 
+Mix the materials 
     
-    get the following in mixing bowl and mix them lightly 
-    
-    
+get the following in mixing bowl and mix them lightly 
 
 - [x] a cup of sugar ( adjust to taste)
 - [x] a cup of sunflower oil
@@ -60,5 +58,5 @@
     
     
  
-
+:cake:
 
