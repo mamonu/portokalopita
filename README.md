@@ -1,12 +1,13 @@
-# portokalopita (MIT-Licenced)
+# (MIT-Licenced) portokalopita 
 
-
+ :tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine:
+ 
 A syrup cake made with filo pastry and infused with orange drizzle for a great zesty flavour 
 
+:tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine: 
 
 
- 
- 
+
 #### Permissions
 
 :heavy_check_mark: Commercial use
@@ -21,6 +22,15 @@ A syrup cake made with filo pastry and infused with orange drizzle for a great z
  
  
  
+Pull requests accepted. (testing of the changed recipe will be needed before merging to master though)
+
+Any issues? Please open an issue on the github tracker above.
+
+ 
+  :honey_pot: :honey_pot: :honey_pot: :honey_pot: :honey_pot: :honey_pot:
+
+ 
+ 
 ## step 0 
 
 
@@ -29,7 +39,7 @@ Music. :notes:  get the playlist going.&nbsp;
  
 ## step 1
  
-Get the materials&nbsp; 
+Get the materials &nbsp; 
 
 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0117.JPG)
@@ -68,14 +78,14 @@ get the following in mixing bowl and mix them lightly
 - [x] 2 eggs per baking tray
 - [x] vanilla extract
 
-   ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0119.JPG)
+ ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0119.JPG)
 
 - [x] now add the materials from step 2
 
 
 squeeze the filo pastry pieces as you throw them in the mix.&nbsp;
 
-    ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0120.JPG)
+![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0120.JPG)
     
 
 
@@ -168,8 +178,11 @@ Wait for an hour or two.
 
 
  ## step 9
+ 
+ 
+ Time to dig in:
+ :cake: :cake: :cake: :cake: :cake:
 
-Time to dig in:
 
 
 Bon Appetit
@@ -178,12 +191,13 @@ Bon Appetit
 
 Guten Appetit
 
- 
+
+  :cake: :cake: :cake: :cake: :cake: :cake:
  
  ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0128.JPG)
  
  
-
+ :tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine:
 
 
 
