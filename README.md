@@ -56,7 +56,66 @@ get the following in mixing bowl and mix them lightly
 
     ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0120.JPG)
     
-    
+
+
+
+## step 4
  
-:cake:
+ 
+Put the mix into a baking tray and bake at 170C for 40-45 mins
+
+ 
+   ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0121.JPG)
+   ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0122.JPG) 
+   
+   
+   
+If you see that the top is getting a bit more brown that you would like put some aluminum foil on top on the 25 min mark
+ 
+
+
+## step 5
+ 
+ 
+ 
+ Get an orange squezer and make some juice from the oranges (minus the peels that have been used in the previous step
+
+![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0124.JPG) 
+ 
+Create the syrup. Put the following in a pot and boil for 15mins :
+
+
+- [x] a cup of sugar ( adjust to taste)
+- [x] 2 cups of water
+- [x] one cup of orange juice that we mentioned above
+- [x] any orange peels left/availiable
+
+ 
+ ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0123.JPG)
+ 
+ 
+ 
+  
+## step 6
+
+
+get the cake out and cut it in rectangular pieces.
+
+
+ ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0125.JPG)
+ 
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
 
