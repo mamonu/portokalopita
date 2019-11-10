@@ -1,10 +1,10 @@
-# portokalopita
+# portokalopita (MIT-Licenced)
 
 
 A syrup cake made with filo pastry and infused with orange drizzle for a great zesty flavour 
 
 
-#####   An MIT-Licenced Recipe
+
  
  
 #### Permissions
@@ -17,19 +17,19 @@ A syrup cake made with filo pastry and infused with orange drizzle for a great z
 #### Limitations
 
 :x: Liability
-:x: Warranty 
+:x: Warranty/ 
  
  
  
 ## step 0 
 
 
-Music. :notes:  get the playlist going.
+Music. :notes:  get the playlist going./
  
  
 ## step 1
  
-Get the materials 
+Get the materials/ 
 
 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0117.JPG)
@@ -57,7 +57,7 @@ Get the materials
 ## step 3
  
  
-Mix the materials 
+Mix the materials/ 
 
     
 get the following in mixing bowl and mix them lightly 
@@ -73,7 +73,7 @@ get the following in mixing bowl and mix them lightly
 - [x] now add the materials from step 2
 
 
-squeeze the filo pastry pieces as you throw them in the mix.
+squeeze the filo pastry pieces as you throw them in the mix./
 
     ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0120.JPG)
     
@@ -84,7 +84,7 @@ squeeze the filo pastry pieces as you throw them in the mix.
  
  
  
-Put the mix into a baking tray and bake at 170C for 40-45 mins
+Put the mix into a baking tray and bake at 170C for 40-45 mins\
 
 
  
@@ -94,7 +94,8 @@ Put the mix into a baking tray and bake at 170C for 40-45 mins
    
    
    
-If you see that the top is getting a bit more brown that you would like put some aluminum foil on top on the 25 min mark
+If you see that the top is getting a bit more brown that you would like put some 
+aluminum foil on top on the 25 min mark
  
 
 
@@ -109,7 +110,8 @@ If you see that the top is getting a bit more brown that you would like put some
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0124.JPG) 
 
  
-Create the syrup. Put the following in a pot :
+Create the syrup.\
+Put the following in a pot :
 
 
 
@@ -126,7 +128,7 @@ Create the syrup. Put the following in a pot :
  
  
  
- boil for 15mins 
+ boil for 15mins\ 
  
  
   
