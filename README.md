@@ -1,17 +1,17 @@
-## portokalopita
+# portokalopita
 
 
  A syrup cake made with phyllo and infused with orange for a great zesty flavour 
  
  
  
-* step 0
+## step 0
 
 
     Music. We are going to be in the kitchen for sometime so... get the playlist going.
  
  
-* step 1
+## step 1
  
     Get the materials 
 
@@ -29,7 +29,8 @@
 - [x] 2 oranges per baking tray
 
 
-* step 2
+## step 2
+
   Prepare the materials
 
   - [x] cut the Filo Pastry in small pieces and wait for an hour so its dry.
@@ -37,7 +38,7 @@
   - [x] use a citrus grater to lightly grate off only the top layer of the orange peel.    
 
 
-* step 3
+## step 3
  
     Mix the materials 
     
