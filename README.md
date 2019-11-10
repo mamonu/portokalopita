@@ -37,7 +37,7 @@ Music. :notes:  get the playlist going.&nbsp;
  &nbsp; 
  
 ## step 1
- &nbsp; 
+&nbsp; 
 Get the materials &nbsp; 
 &nbsp; 
 
@@ -54,9 +54,12 @@ Get the materials &nbsp;
 - [x] 2 oranges per baking tray
 
 &nbsp; 
+
 ## step 2
+
 &nbsp; 
-  Prepare the materials
+
+Prepare the materials
 
   - [x] cut the Filo Pastry in small pieces and wait for an hour so its dry.
 
@@ -65,18 +68,18 @@ Get the materials &nbsp;
 &nbsp; 
 ## step 3
  
- 
+&nbsp; &nbsp;  
 Mix the materials
 
-    &nbsp; 
+&nbsp;&nbsp;  
 get the following in mixing bowl and mix them lightly 
-
+&nbsp;&nbsp;  
 - [x] a cup of sugar ( adjust to taste)
 - [x] a cup of sunflower oil
 - [x] a portion of greek yoghurt
 - [x] 2 eggs per baking tray
 - [x] vanilla extract
-&nbsp; 
+&nbsp;&nbsp;  
  ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0119.JPG)
 &nbsp; 
 - [x] now add the materials from step 2
@@ -86,7 +89,7 @@ squeeze the filo pastry pieces as you throw them in the mix.&nbsp;
 &nbsp; 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0120.JPG)
     
-&nbsp; 
+&nbsp;&nbsp;  
 
 
 ## step 4
