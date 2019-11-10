@@ -106,12 +106,38 @@ get the cake out and cut it in rectangular pieces.
 
  ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0126.JPG)
  
+ 
+ 
+ 
+ 
+  
+## step 7
+
+Drizzle the syrup over the cake:
+
+ 
+ 
+ 
  ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0127.JPG)
 
 
 
+ ## step 8
+
+Let the cake cool down. Try to resist the urge to eat it all now. 
+Wait for an hour or two.
+
+
+
+
+ ## step 9
+
+Bon Appetit
 
  
+ 
+ 
+ ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0128.JPG)
  
  
 
