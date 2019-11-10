@@ -5,6 +5,23 @@
  
  
  
+ An MIT-Licenced Recipe
+ 
+ 
+ Permissions
+
+:heavy_check_mark: Commercial use
+:heavy_check_mark: Modification
+:heavy_check_mark: Distribution
+:heavy_check_mark: Private use
+
+Limitations
+
+:x: Liability
+:x: Warranty 
+ 
+ 
+ 
 ## step 0 
 
 
@@ -55,6 +72,9 @@ get the following in mixing bowl and mix them lightly
    ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0119.JPG)
 
 - [x] now add the materials from step 2
+
+
+squeeze the filo pastry pieces as you throw them in the mix.
 
     ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0120.JPG)
     
