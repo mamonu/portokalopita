@@ -25,6 +25,9 @@ A syrup cake made with filo pastry and infused with orange drizzle for a great z
  :honey_pot: Pull requests accepted. (testing of the changed recipe will be needed before merging to master though)
 
  :custard: Any issues? Please open an issue on the github tracker above.
+ 
+ 
+ :trumpet: portokalopita v0.1 release availiable in 10SC on Monday 11th of Nov 2019
 
 &nbsp;&nbsp;
 
