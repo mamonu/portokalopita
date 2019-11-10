@@ -1,21 +1,20 @@
 # portokalopita
 
 
- A syrup cake made with phyllo and infused with orange for a great zesty flavour 
+A syrup cake made with filo pastry and infused with orange drizzle for a great zesty flavour 
+
+
+#####   An MIT-Licenced Recipe
  
  
- 
- An MIT-Licenced Recipe
- 
- 
- Permissions
+#### Permissions
 
 :heavy_check_mark: Commercial use
 :heavy_check_mark: Modification
 :heavy_check_mark: Distribution
 :heavy_check_mark: Private use
 
-Limitations
+#### Limitations
 
 :x: Liability
 :x: Warranty 
