@@ -40,7 +40,9 @@ Get the materials
 
 ## step 3
  
+ 
 Mix the materials 
+
     
 get the following in mixing bowl and mix them lightly 
 
@@ -62,7 +64,9 @@ get the following in mixing bowl and mix them lightly
 ## step 4
  
  
+ 
 Put the mix into a baking tray and bake at 170C for 40-45 mins
+
 
  
    ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0121.JPG)
@@ -70,8 +74,10 @@ Put the mix into a baking tray and bake at 170C for 40-45 mins
    
    
    
+   
 If you see that the top is getting a bit more brown that you would like put some aluminum foil on top on the 25 min mark
  
+
 
 
 ## step 5
@@ -79,10 +85,13 @@ If you see that the top is getting a bit more brown that you would like put some
  
  
  Get an orange squezer and make some juice from the oranges (minus the peels that have been used in the previous step
+ 
 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0124.JPG) 
+
  
 Create the syrup. Put the following in a pot :
+
 
 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0123.JPG)
@@ -93,16 +102,21 @@ Create the syrup. Put the following in a pot :
 - [x] any orange peels left/availiable
 
 
+
  ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0125.JPG)
  
  
+ 
  boil for 15mins 
+ 
  
   
 ## step 6
 
 
+
 get the cake out and cut it in rectangular pieces.
+
 
  ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0126.JPG)
  
@@ -112,6 +126,7 @@ get the cake out and cut it in rectangular pieces.
  
   
 ## step 7
+
 
 Drizzle the syrup over the cake:
 
@@ -123,6 +138,7 @@ Drizzle the syrup over the cake:
 
 
  ## step 8
+ 
 
 Let the cake cool down. Try to resist the urge to eat it all now. 
 Wait for an hour or two.
@@ -138,6 +154,8 @@ Time to dig in:
 Bon Appetit
 
 Καλη ορεξη
+
+Guten Appetit
 
  
  
