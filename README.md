@@ -44,7 +44,7 @@ Music. :notes:  get the playlist going.&nbsp;
 Get the materials &nbsp; 
 &nbsp; 
 
-![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0117.JPG)
+
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0118.JPG)
 
 - [x] Filo Pastry 450g per baking tray
@@ -61,6 +61,9 @@ Get the materials &nbsp;
 ## step 2
 
 &nbsp; 
+
+
+![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0117.JPG)
 
 Prepare the materials
 
