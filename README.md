@@ -17,19 +17,19 @@ A syrup cake made with filo pastry and infused with orange drizzle for a great z
 #### Limitations
 
 :x: Liability
-:x: Warranty\ 
+:x: Warranty &nbsp; 
  
  
  
 ## step 0 
 
 
-Music. :notes:  get the playlist going.\
+Music. :notes:  get the playlist going.&nbsp;
  
  
 ## step 1
  
-Get the materials/ 
+Get the materials&nbsp; 
 
 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0117.JPG)
@@ -73,7 +73,7 @@ get the following in mixing bowl and mix them lightly
 - [x] now add the materials from step 2
 
 
-squeeze the filo pastry pieces as you throw them in the mix.\
+squeeze the filo pastry pieces as you throw them in the mix.&nbsp;
 
     ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0120.JPG)
     
@@ -82,22 +82,22 @@ squeeze the filo pastry pieces as you throw them in the mix.\
 
 ## step 4
  
+ &nbsp;
  
- 
-Put the mix into a baking tray and bake at 170C for 40-45 mins\
+Put the mix into a baking tray and bake at 170C for 40-45 mins&nbsp;
 
-
+&nbsp;
  
    ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0121.JPG)
    ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0122.JPG) 
    
    
-   
+   &nbsp;
    
 If you see that the top is getting a bit more brown that you would like put some 
 aluminum foil on top on the 25 min mark
  
-
+&nbsp;
 
 
 ## step 5
@@ -110,9 +110,9 @@ aluminum foil on top on the 25 min mark
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0124.JPG) 
 
  
-Create the syrup.\
+Create the syrup.&nbsp;
 Put the following in a pot :
-
+&nbsp;
 
 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0123.JPG)
@@ -122,18 +122,18 @@ Put the following in a pot :
 - [x] one cup of orange juice that we mentioned above
 - [x] any orange peels left/availiable
 
-
+&nbsp;
 
  ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0125.JPG)
  
+ &nbsp;
  
- 
- boil for 15mins\ 
+ boil for 15mins &nbsp; 
  
  
   
 ## step 6
-
+&nbsp;
 
 
 get the cake out and cut it in rectangular pieces.
