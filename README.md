@@ -177,8 +177,9 @@ Drizzle the syrup over the cake:
  ## step 8
  &nbsp; &nbsp; 
 
-Let the cake cool down. Try to resist the urge to eat it all now. 
-Wait for an hour or two.
+Let the cake cool down.
+Try to resist the urge to eat it all now. :japanese_ogre:
+Wait for an hour or two. :japanese_ogre:
 &nbsp; &nbsp; 
 
 
