@@ -1,10 +1,10 @@
 # (MIT-Licenced) portokalopita 
 
- :tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine:
+ :tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine: 
  
 A syrup cake made with filo pastry and infused with orange drizzle for a great zesty flavour 
 
-:tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine: 
+:tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine:  
 
 
 
@@ -20,14 +20,13 @@ A syrup cake made with filo pastry and infused with orange drizzle for a great z
 :x: Liability
 :x: Warranty &nbsp; 
  
+ &nbsp;&nbsp;
  
- 
-Pull requests accepted. (testing of the changed recipe will be needed before merging to master though)
+ :honey_pot: Pull requests accepted. (testing of the changed recipe will be needed before merging to master though)
 
-Any issues? Please open an issue on the github tracker above.
+ :custard: Any issues? Please open an issue on the github tracker above.
 
- 
-  :honey_pot: :honey_pot: :honey_pot: :honey_pot: :honey_pot: :honey_pot:
+&nbsp;&nbsp;
 
  
  
@@ -67,7 +66,7 @@ Get the materials &nbsp;
 ## step 3
  
  
-Mix the materials/ 
+Mix the materials
 
     
 get the following in mixing bowl and mix them lightly 
