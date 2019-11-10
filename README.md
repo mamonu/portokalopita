@@ -82,18 +82,21 @@ If you see that the top is getting a bit more brown that you would like put some
 
 ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0124.JPG) 
  
-Create the syrup. Put the following in a pot and boil for 15mins :
+Create the syrup. Put the following in a pot :
 
 
+![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0123.JPG)
+ 
 - [x] a cup of sugar ( adjust to taste)
 - [x] 2 cups of water
 - [x] one cup of orange juice that we mentioned above
 - [x] any orange peels left/availiable
 
+
+ ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0125.JPG)
  
- ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0123.JPG)
  
- 
+ boil for 15mins 
  
   
 ## step 6
@@ -101,10 +104,9 @@ Create the syrup. Put the following in a pot and boil for 15mins :
 
 get the cake out and cut it in rectangular pieces.
 
-
- ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0125.JPG)
+ ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0126.JPG)
  
-
+ ![materials](https://github.com/mamonu/portokalopita/raw/master/pics/DSC_0127.JPG)
 
 
 
