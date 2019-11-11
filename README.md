@@ -2,7 +2,7 @@
 
  :tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine: 
  
-A syrup cake made with filo pastry and infused with orange drizzle for a great zesty flavour 
+A orange infused syrup cake made with filo pastry 
 
 :tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine:  
 
@@ -112,9 +112,8 @@ Put the mix into a baking tray and bake at 170C for 40-45 mins&nbsp;
    
    
    &nbsp;
-   
-If you see that the top is getting a bit more brown that you would like put some 
-aluminum foil on top on the 25 min mark
+    
+put some aluminum foil on top of the cake around the 25 min mark
  
 &nbsp;
 
