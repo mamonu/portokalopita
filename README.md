@@ -2,7 +2,7 @@
 
  :tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine: 
  
-A orange infused syrup cake made with filo pastry 
+An orange infused syrup cake made with filo pastry 
 
 :tangerine: :cake: :tangerine: :cake: :tangerine: :cake: :tangerine:  
 
